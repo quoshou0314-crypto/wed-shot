@@ -1,0 +1,113 @@
+{
+  "extDescription": {
+    "message": "Снимки веб-страниц с точным размером окна: выделение перетаскиванием, хранение фрагментов, объединение и пакетное сохранение."
+  },
+  "actionTitle": {
+    "message": "Wed Shot — открыть рабочую область снимков"
+  },
+  "size": {
+    "message": "Размер"
+  },
+  "zoom": {
+    "message": "Масштаб"
+  },
+  "zoomAuto": {
+    "message": "Авто"
+  },
+  "zoomAutoPct": {
+    "message": "Авто {0}%"
+  },
+  "statusAuto": {
+    "message": " (авто)"
+  },
+  "frameTitle": {
+    "message": "Предпросмотр страницы"
+  },
+  "trayTitle": {
+    "message": "Фрагменты"
+  },
+  "emptyHint": {
+    "message": "Ctrl + перетаскивание\nвыделить область на странице"
+  },
+  "selectAll": {
+    "message": "Все"
+  },
+  "delete": {
+    "message": "Удалить"
+  },
+  "merge": {
+    "message": "Объединить"
+  },
+  "save": {
+    "message": "Сохранить"
+  },
+  "saving": {
+    "message": "Сохранение"
+  },
+  "saved": {
+    "message": "Сохранено"
+  },
+  "loading": {
+    "message": "Загрузка…"
+  },
+  "pageLoaded": {
+    "message": "Страница загружена"
+  },
+  "errHttpOnly": {
+    "message": "Поддерживаются только URL http(s)"
+  },
+  "errImageLoad": {
+    "message": "Не удалось загрузить изображение"
+  },
+  "capturing": {
+    "message": "Снимок…"
+  },
+  "errNoImage": {
+    "message": "Изображение не получено"
+  },
+  "captured": {
+    "message": "Снят #{0} ({1}×{2})"
+  },
+  "captureFailed": {
+    "message": "Не удалось сделать снимок: {0}"
+  },
+  "captureFailedDevtools": {
+    "message": "Не удалось сделать снимок: {0} — закройте DevTools, если они открыты"
+  },
+  "deleted": {
+    "message": "Удалено фрагментов: {0}"
+  },
+  "merged": {
+    "message": "Объединено в #{0} ({1}×{2})"
+  },
+  "mergeFailed": {
+    "message": "Не удалось объединить: {0}"
+  },
+  "selectToSave": {
+    "message": "Сначала выберите фрагменты для сохранения"
+  },
+  "errNoFsAccess": {
+    "message": "Этот браузер не поддерживает сохранение файлов (File System Access)"
+  },
+  "zipFile": {
+    "message": "Архив ZIP"
+  },
+  "pngImage": {
+    "message": "Изображение PNG"
+  },
+  "saveCanceled": {
+    "message": "Сохранение отменено"
+  },
+  "saveFailed": {
+    "message": "Не удалось сохранить: {0}"
+  },
+  "savedOne": {
+    "message": "Сохранено: {0}"
+  },
+  "savedMulti": {
+    "message": "Сохранено изображений: {0} — {1}.zip (содержит {1} (1)–({0}).png)"
+  },
+  "errFrameRules": {
+    "message": "Не удалось задать правила встраивания; некоторые сайты могут не отображаться: {0}"
+  }
+}

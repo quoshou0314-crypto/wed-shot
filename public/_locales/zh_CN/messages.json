@@ -1,0 +1,113 @@
+{
+  "extDescription": {
+    "message": "以指定窗口尺寸截取网页画面：拖拽框选、暂存片段、合并与批量保存。"
+  },
+  "actionTitle": {
+    "message": "Wed Shot — 打开截图工作页"
+  },
+  "size": {
+    "message": "尺寸"
+  },
+  "zoom": {
+    "message": "缩放"
+  },
+  "zoomAuto": {
+    "message": "自动"
+  },
+  "zoomAutoPct": {
+    "message": "自动 {0}%"
+  },
+  "statusAuto": {
+    "message": "(自动)"
+  },
+  "frameTitle": {
+    "message": "网页预览"
+  },
+  "trayTitle": {
+    "message": "截取片段"
+  },
+  "emptyHint": {
+    "message": "Ctrl + 拖拽\n在网页内框选截取"
+  },
+  "selectAll": {
+    "message": "全选"
+  },
+  "delete": {
+    "message": "删除"
+  },
+  "merge": {
+    "message": "合并"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "saving": {
+    "message": "保存中"
+  },
+  "saved": {
+    "message": "已保存"
+  },
+  "loading": {
+    "message": "加载中…"
+  },
+  "pageLoaded": {
+    "message": "页面已加载"
+  },
+  "errHttpOnly": {
+    "message": "仅支持 http(s) 网址"
+  },
+  "errImageLoad": {
+    "message": "图像加载失败"
+  },
+  "capturing": {
+    "message": "截取中…"
+  },
+  "errNoImage": {
+    "message": "未获取到图像"
+  },
+  "captured": {
+    "message": "已截取 #{0}({1}×{2})"
+  },
+  "captureFailed": {
+    "message": "截图失败：{0}"
+  },
+  "captureFailedDevtools": {
+    "message": "截图失败：{0} — 如果打开了 DevTools 请先关闭"
+  },
+  "deleted": {
+    "message": "已删除 {0} 个片段"
+  },
+  "merged": {
+    "message": "已合并为 #{0}({1}×{2})"
+  },
+  "mergeFailed": {
+    "message": "合并失败：{0}"
+  },
+  "selectToSave": {
+    "message": "请先选择要保存的片段"
+  },
+  "errNoFsAccess": {
+    "message": "此浏览器不支持另存文件(File System Access)"
+  },
+  "zipFile": {
+    "message": "ZIP 压缩包"
+  },
+  "pngImage": {
+    "message": "PNG 图片"
+  },
+  "saveCanceled": {
+    "message": "已取消保存"
+  },
+  "saveFailed": {
+    "message": "保存失败：{0}"
+  },
+  "savedOne": {
+    "message": "已保存：{0}"
+  },
+  "savedMulti": {
+    "message": "已保存 {0} 张：{1}.zip(内含 {1} (1)~({0}).png)"
+  },
+  "errFrameRules": {
+    "message": "无法设置嵌入规则，部分网站可能拒绝显示：{0}"
+  }
+}

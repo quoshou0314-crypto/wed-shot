@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<title>Wed Shot</title>
+<link rel="icon" type="image/svg+xml" href="icons/icon16.svg" />
+<link rel="stylesheet" href="panel.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- 左欄:工具列 + 畫面 + 狀態列 -->
+    <div class="left-col">
+      <div class="toolbar">
+        <div class="brand" aria-label="Wed Shot">
+          <img class="brand-mark" src="icons/icon16.svg" alt="" width="16" height="16" />
+          <span class="brand-name"><b>Wed</b> <span class="brand-shot">Shot</span></span>
+        </div>
+        <label class="field">
+          <span data-i18n="size">尺寸</span>
+          <input type="number" id="inpW" value="960" min="200" max="4000" step="10" />
+          <span>×</span>
+          <input type="number" id="inpH" value="960" min="200" max="8000" step="10" />
+        </label>
+        <label class="field">
+          <span data-i18n="zoom">縮放</span>
+          <select id="selZoom">
+            <option value="auto" selected data-i18n="zoomAuto">自動</option>
+            <option value="1">100%</option>
+            <option value="0.75">75%</option>
+            <option value="0.5">50%</option>
+            <option value="0.33">33%</option>
+          </select>
+        </label>
+      </div>
+
+      <section class="stage-pane" id="stagePane">
+        <div class="stage-scroll" id="stageScroll">
+          <div class="stage-outer" id="stageOuter">
+            <div class="stage" id="stage">
+              <iframe class="stage-frame" id="stageFrame" title="Wed 畫面" data-i18n-title="frameTitle"></iframe>
+              <div class="rubber" id="rubber" hidden>
+                <div class="rubber-size" id="rubberSize"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <footer class="statusbar">
+        <span class="st" id="stCoord">—</span>
+        <span class="st" id="stSize"></span>
+        <div class="toolbar-spacer"></div>
+        <span class="st" id="stMsg"></span>
+      </footer>
+    </div>
+
+    <div class="splitter" id="splitter"></div>
+
+    <!-- 右欄:擷取片段(全高) -->
+    <aside class="tray-pane">
+      <div class="tray-head">
+        <span class="tray-title" data-i18n="trayTitle">擷取片段</span>
+        <div class="toolbar-spacer"></div>
+        <span class="tray-ver">v1.0</span>
+      </div>
+      <div class="tray" id="tray"></div>
+      <div class="batch-bar" id="batchBar">
+        <label class="chk">
+          <input type="checkbox" id="chkAll" /> <span data-i18n="selectAll">全選</span>
+        </label>
+        <div class="toolbar-spacer"></div>
+        <button class="tbtn" id="btnDelete" data-i18n="delete">刪除</button>
+        <button class="tbtn" id="btnMerge" data-i18n="merge">合併</button>
+        <button class="tbtn tbtn-primary" id="btnSaveSel" data-i18n="save">儲存</button>
+      </div>
+      <!-- 存檔進度:寫檔中轉圈 → 完成變打勾 → 自動淡出 -->
+      <div class="save-toast" id="saveToast" role="status" aria-label="儲存中" data-i18n-aria="saving" hidden>
+        <svg class="save-ico" viewBox="0 0 52 52" aria-hidden="true">
+          <circle class="save-ring" cx="26" cy="26" r="22" />
+          <path class="save-check" d="M15 27 l7 7 l15 -15" />
+        </svg>
+      </div>
+    </aside>
+  </div>
+
+
+  <script type="module" src="panel.js"></script>
+</body>
+</html>

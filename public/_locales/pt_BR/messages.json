@@ -1,0 +1,113 @@
+{
+  "extDescription": {
+    "message": "Capture qualquer página da web em um tamanho de janela exato: arraste para selecionar, guarde recortes, mescle e salve em lote."
+  },
+  "actionTitle": {
+    "message": "Wed Shot — Abrir área de captura"
+  },
+  "size": {
+    "message": "Tamanho"
+  },
+  "zoom": {
+    "message": "Zoom"
+  },
+  "zoomAuto": {
+    "message": "Auto"
+  },
+  "zoomAutoPct": {
+    "message": "Auto {0}%"
+  },
+  "statusAuto": {
+    "message": " (auto)"
+  },
+  "frameTitle": {
+    "message": "Prévia da página"
+  },
+  "trayTitle": {
+    "message": "Recortes"
+  },
+  "emptyHint": {
+    "message": "Ctrl + arrastar\npara selecionar uma área da página"
+  },
+  "selectAll": {
+    "message": "Todos"
+  },
+  "delete": {
+    "message": "Excluir"
+  },
+  "merge": {
+    "message": "Mesclar"
+  },
+  "save": {
+    "message": "Salvar"
+  },
+  "saving": {
+    "message": "Salvando"
+  },
+  "saved": {
+    "message": "Salvo"
+  },
+  "loading": {
+    "message": "Carregando…"
+  },
+  "pageLoaded": {
+    "message": "Página carregada"
+  },
+  "errHttpOnly": {
+    "message": "Somente URLs http(s) são suportados"
+  },
+  "errImageLoad": {
+    "message": "Falha ao carregar a imagem"
+  },
+  "capturing": {
+    "message": "Capturando…"
+  },
+  "errNoImage": {
+    "message": "Nenhuma imagem recebida"
+  },
+  "captured": {
+    "message": "#{0} capturado ({1}×{2})"
+  },
+  "captureFailed": {
+    "message": "Falha na captura: {0}"
+  },
+  "captureFailedDevtools": {
+    "message": "Falha na captura: {0} — feche o DevTools se estiver aberto"
+  },
+  "deleted": {
+    "message": "{0} recorte(s) excluído(s)"
+  },
+  "merged": {
+    "message": "Mesclado em #{0} ({1}×{2})"
+  },
+  "mergeFailed": {
+    "message": "Falha ao mesclar: {0}"
+  },
+  "selectToSave": {
+    "message": "Selecione primeiro os recortes a salvar"
+  },
+  "errNoFsAccess": {
+    "message": "Este navegador não permite salvar arquivos (File System Access)"
+  },
+  "zipFile": {
+    "message": "Arquivo ZIP"
+  },
+  "pngImage": {
+    "message": "Imagem PNG"
+  },
+  "saveCanceled": {
+    "message": "Salvamento cancelado"
+  },
+  "saveFailed": {
+    "message": "Falha ao salvar: {0}"
+  },
+  "savedOne": {
+    "message": "Salvo: {0}"
+  },
+  "savedMulti": {
+    "message": "{0} imagens salvas: {1}.zip (contém {1} (1)–({0}).png)"
+  },
+  "errFrameRules": {
+    "message": "Não foi possível definir as regras de incorporação; alguns sites podem não ser exibidos: {0}"
+  }
+}

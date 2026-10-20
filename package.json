@@ -1,0 +1,18 @@
+{
+  "name": "wed-shot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DevTools 版面配置的網頁區域截圖暫存工具 (Chrome MV3 / TypeScript)",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "watch": "node build.mjs --watch",
+    "typecheck": "tsc --noEmit",
+    "pack": "node build.mjs && node scripts/pack.mjs"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.268",
+    "esbuild": "^0.23.0",
+    "typescript": "^5.5.4"
+  }
+}

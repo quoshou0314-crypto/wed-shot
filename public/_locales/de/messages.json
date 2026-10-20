@@ -1,0 +1,113 @@
+{
+  "extDescription": {
+    "message": "Webseiten in exakter Viewport-Größe aufnehmen: Bereich ziehen, Ausschnitte sammeln, zusammenfügen und gesammelt speichern."
+  },
+  "actionTitle": {
+    "message": "Wed Shot — Aufnahmebereich öffnen"
+  },
+  "size": {
+    "message": "Größe"
+  },
+  "zoom": {
+    "message": "Zoom"
+  },
+  "zoomAuto": {
+    "message": "Auto"
+  },
+  "zoomAutoPct": {
+    "message": "Auto {0} %"
+  },
+  "statusAuto": {
+    "message": " (auto)"
+  },
+  "frameTitle": {
+    "message": "Seitenvorschau"
+  },
+  "trayTitle": {
+    "message": "Ausschnitte"
+  },
+  "emptyHint": {
+    "message": "Strg + Ziehen\num einen Bereich der Seite zu wählen"
+  },
+  "selectAll": {
+    "message": "Alle"
+  },
+  "delete": {
+    "message": "Löschen"
+  },
+  "merge": {
+    "message": "Verbinden"
+  },
+  "save": {
+    "message": "Speichern"
+  },
+  "saving": {
+    "message": "Wird gespeichert"
+  },
+  "saved": {
+    "message": "Gespeichert"
+  },
+  "loading": {
+    "message": "Wird geladen…"
+  },
+  "pageLoaded": {
+    "message": "Seite geladen"
+  },
+  "errHttpOnly": {
+    "message": "Nur http(s)-URLs werden unterstützt"
+  },
+  "errImageLoad": {
+    "message": "Bild konnte nicht geladen werden"
+  },
+  "capturing": {
+    "message": "Aufnahme läuft…"
+  },
+  "errNoImage": {
+    "message": "Kein Bild erhalten"
+  },
+  "captured": {
+    "message": "#{0} aufgenommen ({1}×{2})"
+  },
+  "captureFailed": {
+    "message": "Aufnahme fehlgeschlagen: {0}"
+  },
+  "captureFailedDevtools": {
+    "message": "Aufnahme fehlgeschlagen: {0} — schließe die DevTools, falls sie geöffnet sind"
+  },
+  "deleted": {
+    "message": "{0} Ausschnitt(e) gelöscht"
+  },
+  "merged": {
+    "message": "Zu #{0} verbunden ({1}×{2})"
+  },
+  "mergeFailed": {
+    "message": "Verbinden fehlgeschlagen: {0}"
+  },
+  "selectToSave": {
+    "message": "Wähle zuerst die Ausschnitte zum Speichern aus"
+  },
+  "errNoFsAccess": {
+    "message": "Dieser Browser unterstützt das Speichern von Dateien nicht (File System Access)"
+  },
+  "zipFile": {
+    "message": "ZIP-Archiv"
+  },
+  "pngImage": {
+    "message": "PNG-Bild"
+  },
+  "saveCanceled": {
+    "message": "Speichern abgebrochen"
+  },
+  "saveFailed": {
+    "message": "Speichern fehlgeschlagen: {0}"
+  },
+  "savedOne": {
+    "message": "Gespeichert: {0}"
+  },
+  "savedMulti": {
+    "message": "{0} Bilder gespeichert: {1}.zip (enthält {1} (1)–({0}).png)"
+  },
+  "errFrameRules": {
+    "message": "Einbettungsregeln konnten nicht gesetzt werden; manche Seiten werden evtl. nicht angezeigt: {0}"
+  }
+}

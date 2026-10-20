@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 128" width="470" height="128">
+  <path fill="#5B63F5" d="M4 4h40v12H16v28H4zM124 4H84v12h28v28h12zM124 124H84v-12h28V84h12zM4 124h40v-12H16V84H4zM44 44h40v40H44z"/>
+  <text x="156" y="86" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="600" letter-spacing="-2" fill="#5B63F5">Wed<tspan dx="10" font-weight="300">Shot</tspan></text>
+</svg>

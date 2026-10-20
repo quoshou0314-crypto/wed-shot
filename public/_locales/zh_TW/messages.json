@@ -1,0 +1,113 @@
+{
+  "extDescription": {
+    "message": "以指定視窗尺寸擷取網頁畫面：拖曳框選、暫存片段、合併與批次存檔。"
+  },
+  "actionTitle": {
+    "message": "Wed Shot — 開啟截圖工作頁"
+  },
+  "size": {
+    "message": "尺寸"
+  },
+  "zoom": {
+    "message": "縮放"
+  },
+  "zoomAuto": {
+    "message": "自動"
+  },
+  "zoomAutoPct": {
+    "message": "自動 {0}%"
+  },
+  "statusAuto": {
+    "message": "(自動)"
+  },
+  "frameTitle": {
+    "message": "網頁預覽"
+  },
+  "trayTitle": {
+    "message": "擷取片段"
+  },
+  "emptyHint": {
+    "message": "Ctrl + 拖曳\n網頁內部框選擷取"
+  },
+  "selectAll": {
+    "message": "全選"
+  },
+  "delete": {
+    "message": "刪除"
+  },
+  "merge": {
+    "message": "合併"
+  },
+  "save": {
+    "message": "儲存"
+  },
+  "saving": {
+    "message": "儲存中"
+  },
+  "saved": {
+    "message": "已儲存"
+  },
+  "loading": {
+    "message": "載入中…"
+  },
+  "pageLoaded": {
+    "message": "頁面已載入"
+  },
+  "errHttpOnly": {
+    "message": "只支援 http(s) 網址"
+  },
+  "errImageLoad": {
+    "message": "影像載入失敗"
+  },
+  "capturing": {
+    "message": "擷取中…"
+  },
+  "errNoImage": {
+    "message": "未取得影像"
+  },
+  "captured": {
+    "message": "已擷取 #{0}({1}×{2})"
+  },
+  "captureFailed": {
+    "message": "截圖失敗:{0}"
+  },
+  "captureFailedDevtools": {
+    "message": "截圖失敗:{0} — 若開著 DevTools 請先關閉"
+  },
+  "deleted": {
+    "message": "已刪除 {0} 個片段"
+  },
+  "merged": {
+    "message": "已合併為 #{0}({1}×{2})"
+  },
+  "mergeFailed": {
+    "message": "合併失敗:{0}"
+  },
+  "selectToSave": {
+    "message": "請先勾選要儲存的片段"
+  },
+  "errNoFsAccess": {
+    "message": "此瀏覽器不支援另存檔案(File System Access)"
+  },
+  "zipFile": {
+    "message": "ZIP 壓縮檔"
+  },
+  "pngImage": {
+    "message": "PNG 圖片"
+  },
+  "saveCanceled": {
+    "message": "已取消儲存"
+  },
+  "saveFailed": {
+    "message": "儲存失敗:{0}"
+  },
+  "savedOne": {
+    "message": "已儲存:{0}"
+  },
+  "savedMulti": {
+    "message": "已儲存 {0} 張:{1}.zip(內含 {1} (1)~({0}).png)"
+  },
+  "errFrameRules": {
+    "message": "無法設定嵌入規則,部分網站可能拒絕顯示:{0}"
+  }
+}

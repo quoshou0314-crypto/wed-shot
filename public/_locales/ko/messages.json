@@ -1,0 +1,113 @@
+{
+  "extDescription": {
+    "message": "지정한 뷰포트 크기로 웹 페이지를 캡처합니다: 드래그로 영역 선택, 클립 보관, 병합 및 일괄 저장."
+  },
+  "actionTitle": {
+    "message": "Wed Shot — 캡처 작업 페이지 열기"
+  },
+  "size": {
+    "message": "크기"
+  },
+  "zoom": {
+    "message": "확대/축소"
+  },
+  "zoomAuto": {
+    "message": "자동"
+  },
+  "zoomAutoPct": {
+    "message": "자동 {0}%"
+  },
+  "statusAuto": {
+    "message": " (자동)"
+  },
+  "frameTitle": {
+    "message": "웹 페이지 미리보기"
+  },
+  "trayTitle": {
+    "message": "클립"
+  },
+  "emptyHint": {
+    "message": "Ctrl + 드래그\n페이지 안에서 영역 선택"
+  },
+  "selectAll": {
+    "message": "전체 선택"
+  },
+  "delete": {
+    "message": "삭제"
+  },
+  "merge": {
+    "message": "병합"
+  },
+  "save": {
+    "message": "저장"
+  },
+  "saving": {
+    "message": "저장 중"
+  },
+  "saved": {
+    "message": "저장됨"
+  },
+  "loading": {
+    "message": "로드 중…"
+  },
+  "pageLoaded": {
+    "message": "페이지를 불러왔습니다"
+  },
+  "errHttpOnly": {
+    "message": "http(s) URL만 지원합니다"
+  },
+  "errImageLoad": {
+    "message": "이미지를 불러오지 못했습니다"
+  },
+  "capturing": {
+    "message": "캡처 중…"
+  },
+  "errNoImage": {
+    "message": "이미지를 받지 못했습니다"
+  },
+  "captured": {
+    "message": "#{0} 캡처됨 ({1}×{2})"
+  },
+  "captureFailed": {
+    "message": "캡처 실패: {0}"
+  },
+  "captureFailedDevtools": {
+    "message": "캡처 실패: {0} — DevTools가 열려 있으면 닫아 주세요"
+  },
+  "deleted": {
+    "message": "클립 {0}개를 삭제했습니다"
+  },
+  "merged": {
+    "message": "#{0}(으)로 병합했습니다 ({1}×{2})"
+  },
+  "mergeFailed": {
+    "message": "병합 실패: {0}"
+  },
+  "selectToSave": {
+    "message": "저장할 클립을 먼저 선택하세요"
+  },
+  "errNoFsAccess": {
+    "message": "이 브라우저는 파일 저장(File System Access)을 지원하지 않습니다"
+  },
+  "zipFile": {
+    "message": "ZIP 파일"
+  },
+  "pngImage": {
+    "message": "PNG 이미지"
+  },
+  "saveCanceled": {
+    "message": "저장을 취소했습니다"
+  },
+  "saveFailed": {
+    "message": "저장 실패: {0}"
+  },
+  "savedOne": {
+    "message": "저장됨: {0}"
+  },
+  "savedMulti": {
+    "message": "{0}장 저장됨: {1}.zip ({1} (1)~({0}).png 포함)"
+  },
+  "errFrameRules": {
+    "message": "삽입 규칙을 설정하지 못했습니다. 일부 사이트가 표시되지 않을 수 있습니다: {0}"
+  }
+}

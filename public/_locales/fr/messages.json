@@ -1,0 +1,113 @@
+{
+  "extDescription": {
+    "message": "Capturez une page web à une taille de fenêtre exacte : sélection par glisser, extraits, fusion et enregistrement par lot."
+  },
+  "actionTitle": {
+    "message": "Wed Shot — Ouvrir l'espace de capture"
+  },
+  "size": {
+    "message": "Taille"
+  },
+  "zoom": {
+    "message": "Zoom"
+  },
+  "zoomAuto": {
+    "message": "Auto"
+  },
+  "zoomAutoPct": {
+    "message": "Auto {0} %"
+  },
+  "statusAuto": {
+    "message": " (auto)"
+  },
+  "frameTitle": {
+    "message": "Aperçu de la page"
+  },
+  "trayTitle": {
+    "message": "Extraits"
+  },
+  "emptyHint": {
+    "message": "Ctrl + glisser\npour sélectionner une zone de la page"
+  },
+  "selectAll": {
+    "message": "Tout"
+  },
+  "delete": {
+    "message": "Supprimer"
+  },
+  "merge": {
+    "message": "Fusionner"
+  },
+  "save": {
+    "message": "Enregistrer"
+  },
+  "saving": {
+    "message": "Enregistrement"
+  },
+  "saved": {
+    "message": "Enregistré"
+  },
+  "loading": {
+    "message": "Chargement…"
+  },
+  "pageLoaded": {
+    "message": "Page chargée"
+  },
+  "errHttpOnly": {
+    "message": "Seules les URL http(s) sont prises en charge"
+  },
+  "errImageLoad": {
+    "message": "Impossible de charger l'image"
+  },
+  "capturing": {
+    "message": "Capture…"
+  },
+  "errNoImage": {
+    "message": "Aucune image reçue"
+  },
+  "captured": {
+    "message": "#{0} capturé ({1}×{2})"
+  },
+  "captureFailed": {
+    "message": "Échec de la capture : {0}"
+  },
+  "captureFailedDevtools": {
+    "message": "Échec de la capture : {0} — fermez DevTools s'il est ouvert"
+  },
+  "deleted": {
+    "message": "{0} extrait(s) supprimé(s)"
+  },
+  "merged": {
+    "message": "Fusionné en #{0} ({1}×{2})"
+  },
+  "mergeFailed": {
+    "message": "Échec de la fusion : {0}"
+  },
+  "selectToSave": {
+    "message": "Sélectionnez d'abord les extraits à enregistrer"
+  },
+  "errNoFsAccess": {
+    "message": "Ce navigateur ne permet pas d'enregistrer des fichiers (File System Access)"
+  },
+  "zipFile": {
+    "message": "Archive ZIP"
+  },
+  "pngImage": {
+    "message": "Image PNG"
+  },
+  "saveCanceled": {
+    "message": "Enregistrement annulé"
+  },
+  "saveFailed": {
+    "message": "Échec de l'enregistrement : {0}"
+  },
+  "savedOne": {
+    "message": "Enregistré : {0}"
+  },
+  "savedMulti": {
+    "message": "{0} images enregistrées : {1}.zip (contient {1} (1)–({0}).png)"
+  },
+  "errFrameRules": {
+    "message": "Impossible de définir les règles d'intégration ; certains sites peuvent refuser de s'afficher : {0}"
+  }
+}

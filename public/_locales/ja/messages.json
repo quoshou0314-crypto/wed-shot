@@ -1,0 +1,113 @@
+{
+  "extDescription": {
+    "message": "指定したビューポートサイズでウェブページをキャプチャ：ドラッグで範囲選択、クリップを保管、結合して一括保存。"
+  },
+  "actionTitle": {
+    "message": "Wed Shot — キャプチャ画面を開く"
+  },
+  "size": {
+    "message": "サイズ"
+  },
+  "zoom": {
+    "message": "ズーム"
+  },
+  "zoomAuto": {
+    "message": "自動"
+  },
+  "zoomAutoPct": {
+    "message": "自動 {0}%"
+  },
+  "statusAuto": {
+    "message": "（自動）"
+  },
+  "frameTitle": {
+    "message": "ウェブページのプレビュー"
+  },
+  "trayTitle": {
+    "message": "クリップ"
+  },
+  "emptyHint": {
+    "message": "Ctrl + ドラッグ\nページ内を範囲選択"
+  },
+  "selectAll": {
+    "message": "すべて選択"
+  },
+  "delete": {
+    "message": "削除"
+  },
+  "merge": {
+    "message": "結合"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "saving": {
+    "message": "保存中"
+  },
+  "saved": {
+    "message": "保存しました"
+  },
+  "loading": {
+    "message": "読み込み中…"
+  },
+  "pageLoaded": {
+    "message": "ページを読み込みました"
+  },
+  "errHttpOnly": {
+    "message": "http(s) の URL のみ対応しています"
+  },
+  "errImageLoad": {
+    "message": "画像を読み込めませんでした"
+  },
+  "capturing": {
+    "message": "キャプチャ中…"
+  },
+  "errNoImage": {
+    "message": "画像を取得できませんでした"
+  },
+  "captured": {
+    "message": "#{0} をキャプチャしました（{1}×{2}）"
+  },
+  "captureFailed": {
+    "message": "キャプチャに失敗しました：{0}"
+  },
+  "captureFailedDevtools": {
+    "message": "キャプチャに失敗しました：{0} — DevTools を開いている場合は閉じてください"
+  },
+  "deleted": {
+    "message": "{0} 件のクリップを削除しました"
+  },
+  "merged": {
+    "message": "#{0} に結合しました（{1}×{2}）"
+  },
+  "mergeFailed": {
+    "message": "結合に失敗しました：{0}"
+  },
+  "selectToSave": {
+    "message": "保存するクリップを先に選択してください"
+  },
+  "errNoFsAccess": {
+    "message": "このブラウザはファイル保存（File System Access）に対応していません"
+  },
+  "zipFile": {
+    "message": "ZIP ファイル"
+  },
+  "pngImage": {
+    "message": "PNG 画像"
+  },
+  "saveCanceled": {
+    "message": "保存をキャンセルしました"
+  },
+  "saveFailed": {
+    "message": "保存に失敗しました：{0}"
+  },
+  "savedOne": {
+    "message": "保存しました：{0}"
+  },
+  "savedMulti": {
+    "message": "{0} 枚を保存しました：{1}.zip（{1} (1)〜({0}).png を含む）"
+  },
+  "errFrameRules": {
+    "message": "埋め込みルールを設定できませんでした。一部のサイトは表示されない場合があります：{0}"
+  }
+}

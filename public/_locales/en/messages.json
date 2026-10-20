@@ -1,0 +1,113 @@
+{
+  "extDescription": {
+    "message": "Capture any web page at an exact viewport size: drag to select, collect clips, merge and batch-save."
+  },
+  "actionTitle": {
+    "message": "Wed Shot — Open capture workspace"
+  },
+  "size": {
+    "message": "Size"
+  },
+  "zoom": {
+    "message": "Zoom"
+  },
+  "zoomAuto": {
+    "message": "Auto"
+  },
+  "zoomAutoPct": {
+    "message": "Auto {0}%"
+  },
+  "statusAuto": {
+    "message": " (auto)"
+  },
+  "frameTitle": {
+    "message": "Web page preview"
+  },
+  "trayTitle": {
+    "message": "Clips"
+  },
+  "emptyHint": {
+    "message": "Ctrl + drag\nto select an area on the page"
+  },
+  "selectAll": {
+    "message": "Select all"
+  },
+  "delete": {
+    "message": "Delete"
+  },
+  "merge": {
+    "message": "Merge"
+  },
+  "save": {
+    "message": "Save"
+  },
+  "saving": {
+    "message": "Saving"
+  },
+  "saved": {
+    "message": "Saved"
+  },
+  "loading": {
+    "message": "Loading…"
+  },
+  "pageLoaded": {
+    "message": "Page loaded"
+  },
+  "errHttpOnly": {
+    "message": "Only http(s) URLs are supported"
+  },
+  "errImageLoad": {
+    "message": "Failed to load image"
+  },
+  "capturing": {
+    "message": "Capturing…"
+  },
+  "errNoImage": {
+    "message": "No image received"
+  },
+  "captured": {
+    "message": "Captured #{0} ({1}×{2})"
+  },
+  "captureFailed": {
+    "message": "Capture failed: {0}"
+  },
+  "captureFailedDevtools": {
+    "message": "Capture failed: {0} — close DevTools if it is open"
+  },
+  "deleted": {
+    "message": "Deleted {0} clip(s)"
+  },
+  "merged": {
+    "message": "Merged into #{0} ({1}×{2})"
+  },
+  "mergeFailed": {
+    "message": "Merge failed: {0}"
+  },
+  "selectToSave": {
+    "message": "Select the clips to save first"
+  },
+  "errNoFsAccess": {
+    "message": "This browser does not support saving files (File System Access)"
+  },
+  "zipFile": {
+    "message": "ZIP archive"
+  },
+  "pngImage": {
+    "message": "PNG image"
+  },
+  "saveCanceled": {
+    "message": "Save canceled"
+  },
+  "saveFailed": {
+    "message": "Save failed: {0}"
+  },
+  "savedOne": {
+    "message": "Saved: {0}"
+  },
+  "savedMulti": {
+    "message": "Saved {0} images: {1}.zip (contains {1} (1)–({0}).png)"
+  },
+  "errFrameRules": {
+    "message": "Could not set embedding rules; some sites may refuse to display: {0}"
+  }
+}
